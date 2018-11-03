@@ -26,4 +26,5 @@ Then, change the conf.py for Sphinx -
     '.md': 'recommonmark.parser.CommonMarkParser',
     }   
 
-
+while this did build fine into the builddir - in html, there is something missing in the script with regard to changing the links from .md to html. Not really coollllll man.
+Very not coooool.
